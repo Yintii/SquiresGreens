@@ -1,0 +1,7 @@
+@import "variables";
+footer.site-footer{
+    background-color: $primary-color;
+    *{
+        color: $secondary-color;
+    }
+}
